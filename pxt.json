@@ -1,7 +1,7 @@
 {
     "name": "码思空间",
     "version": "1.5.14",
-    "description": "MakeCode extension for Keyestudio Infrared Wireless Module Kit",
+    "description": "码思空间Microbit系列课程",
     "license": "MIT",
     "dependencies": {
         "core": "*",
